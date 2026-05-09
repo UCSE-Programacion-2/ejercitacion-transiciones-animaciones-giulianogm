@@ -90,7 +90,6 @@ nav ul li a:hover::before {
     padding: 10px 15px;
     text-decoration: none;
     /* transition: ; */
-
 }
 
 .social ul li .icon-facebook {
